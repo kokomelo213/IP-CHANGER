@@ -1,6 +1,4 @@
-================================================================================
 IP MANAGER ELITE — made by ketazz
-================================================================================
 
 A Windows CMD + PowerShell tool to manage Proton VPN WireGuard profiles faster
 from a single terminal menu:
